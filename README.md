@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Merry Damsko "@d4msk0"
+- 👋 Hi, I’m Merry Damsko "@D4msk0"
 - 👀💡 I’m interested in Lights, Interactive Installations and Wireless Connectivity
 - 🌱 I’m currently learning C++, Neopixel and microcontrollers such as Arduino or ESP82/32
 
