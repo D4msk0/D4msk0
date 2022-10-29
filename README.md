@@ -1,4 +1,4 @@
-👋 Hi, I’m Merry Damsko "@D4msk0"
+👋 Hi, I’m Merry D4msk0
 
 
 💡 Interested in Lights, Interactive Installations and Wireless Connectivity
