@@ -1,17 +1,27 @@
-👋 Hi, I’m Merry
+👋 Hi, 
+  I’m Maarten. 
+  I've got a background in Electronic Engineering.
+  Currently working as a Java-dev.
+
+💡 Interested in:
+  Lights, 
+  Interactive Installations and 
+  Creative Coding.
+
+👀 (C++) 
+  Exploring topics like: 
+    Neopixel, 
+    MQTT, 
+    ESP-NOW. 
+  In order to develop lightfixtures.
+
+👀 (js) 
+  Following p5 tutorials to learn more about Creative Coding!
+  Right now exploring Perlin Noise.
 
 
-
-💡 Interested in Lights, Interactive Installations and Creative Coding
-
-👀 (C++) Exploring topics like: Neopixel, MQTT, ESP-NOW. In order to develop lightfixtures
-
-👀 (js) Following p5 tutorials to learn more about Creative Coding
-
-
-
-
-🧩 Sometimes I solve a puzzle
+🧩 (C++, Python, Java) 
+  Sometimes I solve a puzzle.
 
 ![](https://projecteuler.net/profile/D4msk0.png)
 
