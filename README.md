@@ -16,7 +16,7 @@
   In order to develop lightfixtures.
 
 👀 (p5.js/Processing) 
-  Following p5 tutorials to learn more about Creative Coding!
+  Following some TheCodingTraing tutorials to learn more about Creative Coding!
   Right now exploring Perlin Noise and animations.
 
 
