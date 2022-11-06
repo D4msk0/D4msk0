@@ -15,9 +15,9 @@
     ESP-NOW. 
   In order to develop lightfixtures.
 
-👀 (js) 
+👀 (p5.js/Processing) 
   Following p5 tutorials to learn more about Creative Coding!
-  Right now exploring Perlin Noise.
+  Right now exploring Perlin Noise and animations.
 
 
 🧩 (C++, Python, Java) 
