@@ -1,7 +1,7 @@
 👋 Hi,
   I’m Maarten. 
   I've got a background in Electronic Engineering.
-  Currently working as a Java-dev.
+  Currently working as a Java dev.
 
 💡 Interested in:
   Lights, 
