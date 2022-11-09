@@ -1,6 +1,6 @@
 👋 Hi,
   I’m Maarten. 
-  I've got a background in Electronic Engineering.
+  I've got a background in Electronics.
   Currently working as a Java dev.
 
 💡 Interested in:
