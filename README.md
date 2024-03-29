@@ -1,7 +1,7 @@
 👋 Hi,
   I’m Maarten. 
   I've got a background in Electronics.
-  Currently working as a Java dev.
+  Currently open to work as a software Java dev.
 
 💡 Interested in:
   Lights, 
@@ -18,7 +18,6 @@
 👀 (p5.js/Processing) 
   Following some TheCodingTraing tutorials to learn more about Creative Coding!
   Right now exploring Perlin Noise and animations.
-
 
 🧩 (C++, Python, Java) 
   Sometimes I solve a puzzle.
