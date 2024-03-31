@@ -20,7 +20,7 @@
   Right now exploring Perlin Noise and animations.
 
 🧩 (C++, Python, Java) 
-  Sometimes I solve a puzzle.
+  Sometimes I solve a puzzle...
 
 ![](https://projecteuler.net/profile/D4msk0.png)
 
