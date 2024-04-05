@@ -5,7 +5,7 @@
 
 💡 Interested in:
   Lights, 
-  Interactive Installations and 
+  Interactive and 
   Creative Coding.
 
 👀 (C++) 
